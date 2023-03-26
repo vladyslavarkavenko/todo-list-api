@@ -17,4 +17,3 @@
 * Setup production env (scripts, configs, etc.)
 * Implement refresh token functionality
 * Pagination for todos
-* 
